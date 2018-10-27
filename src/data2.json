@@ -1,0 +1,73 @@
+{
+	"districts": [{
+			"district": "Anantapur",
+			"cities": [
+
+				"Chittoor",
+				"East Godavari"
+
+			]
+		},
+		{
+			"district": "West Champaran",
+			"cities": [
+				"Patna",
+				"Sonepur",
+
+				"wagha"
+			]
+		},
+		{
+			"district": "Araria",
+			"cities": [
+				"paria",
+
+				"West maya"
+			]
+		},
+		{
+			"district": "Chittoor",
+			"cities": [
+				"xian li",
+
+				"West puri"
+			]
+		},
+		{
+			"district": "East Godavari",
+			"cities": [
+				"Niwai", "Bageshwar", "Tarbha", "Adyar", "Narsinghgarh", "Warud"
+			]
+		},
+		{
+			"district": "West Kameng",
+			"cities": [
+				"Kailasahar", "Samthar", "Sakti", "Sadalagi", "Silao", "Mandalgarh", "Loha", "Pukhrayan"
+			]
+		},
+		{
+			"district": "Longding",
+			"cities": [
+				"Guruvayoor", "Mhaswad", "Sahawar", "Sivagiri"
+			]
+		},
+		{
+			"district": "Baksa",
+			"cities": [
+				"Rania", "Pali", "Pachore", "Parangipettai", "Pudupattinam", "Panniyannur", "Maharajganj"
+			]
+		},
+		{
+			"district": "West Karbi Anglong",
+			"cities": [
+				"Panamattom", "Niwai", "Bageshwar", "Tarbha", "Adyar", "Narsinghgarh"
+			]
+		},
+		{
+			"district": "Chandigarh",
+			"cities": [
+				"Nandgaon", "Barh", "Chhapra", "Panamattom", "Niwai", "Bageshwar"
+			]
+		}
+	]
+}

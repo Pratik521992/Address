@@ -1,0 +1,44 @@
+{  
+    "states":[  
+       {  
+          "state":"Andhra Pradesh",
+          "districts":[  
+             "Anantapur",
+             "Chittoor",
+             "East Godavari"
+             
+          ]
+       },
+       {  
+          "state":"Arunachal Pradesh",
+          "districts":[  
+             "Tawang",
+             "West Kameng",
+             
+             "Longding"
+          ]
+       },
+       {  
+          "state":"Assam",
+          "districts":[  
+             "Baksa",
+             
+             "West Karbi Anglong"
+          ]
+       },
+       {  
+          "state":"Bihar",
+          "districts":[  
+             "Araria",
+             
+             "West Champaran"
+          ]
+       },
+       {  
+          "state":"Chandigarh (UT)",
+          "districts":[  
+             "Chandigarh"
+          ]
+       }
+    ]
+ }
