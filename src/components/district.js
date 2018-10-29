@@ -19,9 +19,10 @@ class SelectRegion  extends Component {
        
     }
         return (
-            <div>
-                <select className="select" onChange={(e)=> this.props.onChange(e.target.value)}>
-                    <option>Select Region</option>
+            <div class="form-group">
+      <label for="sel1">Select list (select one):</label>
+      <select class="form-control" onChange={(e)=> this.props.onChange(e.target.value)}>
+                    <option selected>Select Region</option>
                     {val}
                 </select>
             </div>

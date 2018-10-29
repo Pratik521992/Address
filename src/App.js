@@ -15,7 +15,7 @@ class App extends Component {
       selectstate : data.states,
       selectedDistrict : '',
       districts : '',
-      selectedDsitrict : '',
+     
       selectedCity : '',
       cities : '',
       load : false
@@ -30,14 +30,14 @@ class App extends Component {
   }
   getSelectedState(e){
 
-    this.setState({ selectedstate : e, load : false});
+    this.setState({ selectedstate : e, load : false, districts : '',selectedCity : '',cities : '',selectedDistrict : ''});
     
    
     console.log(this.getregion(e));
   }
   getSelectedDistrict(e){
 
-    this.setState({ selectedDistrict : e, load : false});
+    this.setState({ selectedDistrict : e, load : false ,selectedCity : ''});
     console.log(this.getcity(e));
    
     

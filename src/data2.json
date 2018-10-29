@@ -68,6 +68,12 @@
 			"cities": [
 				"Nandgaon", "Barh", "Chhapra", "Panamattom", "Niwai", "Bageshwar"
 			]
+		},
+		{
+			"district": "sultana",
+			"cities": [
+				"katia", "noorah", "Ulethi", "navrooni", "powai"
+			]
 		}
 	]
 }
